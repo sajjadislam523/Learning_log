@@ -1,0 +1,3 @@
+django/music/
+__pycache__/
+*.sqlite3
